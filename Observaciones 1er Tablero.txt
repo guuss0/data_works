@@ -1,0 +1,12 @@
+El presente tablero fue mi primer iniciativa en el mundo de los datos.
+
+En el area de la empresa que trabajaba contabamos con personal operativo que realizaba diferentes tareas para las demas areas, las cuales debian ser ejecutadas mediante Ordenes de Trabajo (OT) generadas en sistema.
+
+Observaciones: el personal operativo desempeñaba su tarea mediante la modalidad Horas Hombre y todos los trabajos debian realizarse en el marco de Seguridad de la empresa.
+
+El tablero cuenta con 4 pilares segun objetivos definidos:
+
+1 - Trabajos finalizados: teniamos como objetivo terminar mas del 85% de las tareas solicitadas segun planificacion de MO y recursos materiales.
+2 - Rendimiento de HH: el objetivo era ocupar eficientemente el uso de las HH dispobibles, que muchas veces se veian afectadas por falta de recursos materiales, mala programacion de tareas y otras eventualidades.
+3 - Gestion de OT: nos fijamos como objetivo notificar en sistema el 90% o mas de las OT solicitadas debido a que era importante para la parte contable-financiera para los cierre de costos.
+4 - Gestion de peligros y riesgos: la seguridad era fundamental por lo que toda el area debia completar mensualemnte cierta cantidad de observaciones preventivas de seguridad (OPS) que decantaban en mejoras en la operativa.
